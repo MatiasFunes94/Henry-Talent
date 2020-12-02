@@ -12,7 +12,7 @@ This is a student group project done as a final big assigment, in which join all
 
 *Graduation project at soyHenry.com bootcamp.*
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lukasver.HenryTalent)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MatiasFunes94.HenryTalent)
 
 ## Developer Team
 
