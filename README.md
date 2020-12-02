@@ -86,7 +86,18 @@ MAILGUN_TALENT = mailgun_email
 ```
 You have to replace `your_own_port`, `postgresuser`, `postgrespassword`, `postgresport`, and `MAILGUN*`  with your own credentials to connect to postgres database, and Mailgun services. This file will be ignored by github, as it contains sensitive information (the credentials).
 
-The SESSION_SECRET is a random security keyword, you can change or keep it.  
+The SESSION_SECRET is a random security keyword, you can change or keep it.
+
+Inside `client` you must have to create a file called: `.env` 
+that has the following form: 
+
+```
+
+REACT_APP_BACKEND_URL= http://localhost:PORT/api/v1
+
+```
+
+PORT must be the same as api.
 
 ## Next 
 ### _Connect the data base_
